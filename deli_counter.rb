@@ -1,6 +1,6 @@
 # Write your code here.
 def deli_counter(array)
-  if array.length > 0 do
+  if array.length > 0 
   array.each do |name|
    array.index(name)
   end
