@@ -2,7 +2,7 @@
 def line(array)
   if array.length > 0 
   array.each do |name|
-   array.index(name)
+   array(name).index
   end
 else
   return "The line is currently empty."
