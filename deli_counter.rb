@@ -1,5 +1,5 @@
 # Write your code here.
-def deli_counter(array)
+def line(array)
   if array.length > 0 
   array.each do |name|
    array.index(name)
