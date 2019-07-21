@@ -7,4 +7,5 @@ def deli_counter(array)
 else
   return "The line is currently empty."
 end
+end
   
